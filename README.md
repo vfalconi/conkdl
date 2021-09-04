@@ -1,2 +1,2 @@
 # conkdl
-A config loader using KDL
+A JavaScript config loader for KDL
